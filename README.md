@@ -41,6 +41,9 @@ A modern flight booking application built with React that allows users to search
 - **HTTP Client:** Axios
 - **Authentication:** JWT
 
+Frontend Deployment URL - https://flight-booking-final-2.netlify.app
+
+
 
 ## 🔧 Installation
 
