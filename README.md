@@ -131,7 +131,7 @@ Booking history
 Payment history
 
 👥 Contributors
-Your Name
+k.jagan 
 
 📄 License
 This project is licensed under the MIT License
